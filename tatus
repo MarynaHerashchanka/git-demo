@@ -1,0 +1,57 @@
+[33mcommit 41b5e32332919ab50a952750c461d4d8b11586e4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 7f699d3 142a0fe
+Author: Maryna Herashchanka <marina.tarasyuk.1993@gmail.com>
+Date:   Sun Feb 28 15:40:49 2021 +0300
+
+    Merge branch 'feature' into main
+    
+    # Conflicts:
+    #       arrows.txt
+
+[33mcommit 7f699d350a5fb53f660e965ef938480034477be9[m
+Author: Maryna Herashchanka <marina.tarasyuk.1993@gmail.com>
+Date:   Sun Feb 28 15:36:21 2021 +0300
+
+    main arrows
+
+[33mcommit 142a0fecee93b0f4f3ca155651b2ced014af7136[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Maryna Herashchanka <marina.tarasyuk.1993@gmail.com>
+Date:   Sun Feb 28 15:34:56 2021 +0300
+
+    feature arrows
+
+[33mcommit 60e658fc72d16965f173a6def4b1243761c0e342[m
+Author: Maryna Herashchanka <marina.tarasyuk.1993@gmail.com>
+Date:   Sun Feb 28 15:31:54 2021 +0300
+
+    changes
+
+[33mcommit d632b748adb655561f34225168cedb9332dbfb0f[m
+Author: Maryna Herashchanka <marina.tarasyuk.1993@gmail.com>
+Date:   Sun Feb 28 15:27:23 2021 +0300
+
+    two
+
+[33mcommit 8f940cdf418757d251e9c380d483ce316994c243[m
+Author: Maryna Herashchanka <marina.tarasyuk.1993@gmail.com>
+Date:   Sun Feb 28 15:25:53 2021 +0300
+
+    one
+
+[33mcommit 8215670e897052441eec2194f7a75757a8edc42a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: MarynaHerashchanka <74323814+MarynaHerashchanka@users.noreply.github.com>
+Date:   Sun Feb 28 15:03:35 2021 +0300
+
+    add second verse of of my favorite song
+
+[33mcommit fde3fc3171437d917ef02f98f1111666e422b81e[m
+Author: Maryna Herashchanka <marina.tarasyuk.1993@gmail.com>
+Date:   Sun Feb 28 14:53:20 2021 +0300
+
+    add first half of my favorite song
+
+[33mcommit 5f210dfe543f6f3a0eec57a073d0dd5e7ebdcdcd[m
+Author: MarynaHerashchanka <74323814+MarynaHerashchanka@users.noreply.github.com>
+Date:   Sun Feb 28 14:15:38 2021 +0300
+
+    Initial commit
